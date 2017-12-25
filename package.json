@@ -1,0 +1,24 @@
+{
+  "name": "csv",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "1.0.17",
+    "react-youtube": "^7.5.0",
+    "redux": "^3.7.2",
+    "youtube-api-search": "^0.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
